@@ -1,0 +1,31 @@
+
+.container {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    max-width: 1350px;
+    flex-direction: column;
+    
+
+}
+
+
+.row {
+display: flex;
+width: 100%;
+}
+
+
+.row9 {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    margin-left: 10%;
+}
+
+
+
+
+
+
+
+
